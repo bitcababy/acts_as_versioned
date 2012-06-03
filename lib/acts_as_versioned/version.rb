@@ -1,3 +1,3 @@
 module ActsAsVersioned
-  VERSION = "0.0.1"
+  VERSION = "3.2.0"
 end
